@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/out/artifacts/ssm_crud_kuang_war_exploded/WEB-INF/classes/
+/out/test/ssm-crud-kuang/

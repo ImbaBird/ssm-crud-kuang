@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-crud-kuang:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm_crud_kuang_war</output-path>
+    <root id="archive" name="ssm-crud-kuang_war.war">
+      <element id="artifact" artifact-name="ssm-crud-kuang:war exploded" />
+    </root>
+  </artifact>
+</component>
