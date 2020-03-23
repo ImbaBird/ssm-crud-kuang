@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="ssmdemo" />
+          <element id="module-output" name="ssm-crud-kuang" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: junit:junit:4.12" />
@@ -28,7 +28,7 @@
           <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.10" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="ssmdemo/web/Web" />
+      <element id="javaee-facet-resources" facet="ssm-crud-kuang/web/Web" />
     </root>
   </artifact>
 </component>
